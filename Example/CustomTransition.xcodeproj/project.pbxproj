@@ -43,10 +43,10 @@
 		607FACE51AFB9204008FA782 /* CustomTransition_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomTransition_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		87F42173F8C79B2670647D9D /* CustomTransition.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CustomTransition.podspec; path = ../CustomTransition.podspec; sourceTree = "<group>"; };
+		87F42173F8C79B2670647D9D /* CustomTransition.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CustomTransition.podspec; path = ../CustomTransition.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9BA119D2B86FF8FE30312128 /* Pods_CustomTransition_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CustomTransition_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9C464CCB8C6F524B33EB3113 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		C4B4DD030B0CBBD009D60DB8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9C464CCB8C6F524B33EB3113 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C4B4DD030B0CBBD009D60DB8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

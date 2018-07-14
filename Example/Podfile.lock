@@ -1,0 +1,16 @@
+PODS:
+  - CustomTransition (0.1.0)
+
+DEPENDENCIES:
+  - CustomTransition (from `../`)
+
+EXTERNAL SOURCES:
+  CustomTransition:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomTransition: 5d9189fb5769a40e638eaebd9495ea1a84f8892c
+
+PODFILE CHECKSUM: d377d76122cfe98e4aa56e5edab364a4ee0016f8
+
+COCOAPODS: 1.5.2
